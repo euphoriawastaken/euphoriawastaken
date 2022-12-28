@@ -1,7 +1,7 @@
 Hi 👋 My name is Deividas
 =========================
 
-I am Student, Full-Stack web developer, currently learning C++.
+I am a Student, Full-Stack web developer, currently learning C++.
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Vilnius
