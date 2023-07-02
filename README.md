@@ -1,11 +1,11 @@
 Hi 👋 My name is Deividas
 =========================
 
-I am a Student, Full-Stack web developer, currently learning C++.
+I am a Student, Full-Stack web developer, currently learning Astro and other web frameworks.
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Vilnius
-* 🧠  I'm learning C++
+* 🚀  I'm learning Astro
 * 🤝  I'm open to collaborating on Open Source projects
 
 ### Skills
